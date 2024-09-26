@@ -1,1 +1,22 @@
-(
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta name="google-site-verification" content="2ldATPK1ztD1nQqAqNJ_nVD5p9xiDNNkwTwx7DLPv9A" />
+    <script type="application/ld+json">
+
+{  
+  "@context":"http://schema.org",
+  "@type":"Website",
+  "@id":"\/blog\/",
+  "author": {
+    "@type": "Person",
+    "name": "雪見だいふく",
+    
+    "image": "https://www.gravatar.com/avatar/24382c14b331078b109bac57d68af9f0"
+    
+  },
+  "name":"高校生エンジニアの数学ノート",
+  "description":"",
+  "url":"\/blog\/",
+  "keywords":"[]"
+}
