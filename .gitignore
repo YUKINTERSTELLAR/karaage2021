@@ -1,13 +1,17 @@
-<!DOCYPE html>
-<html>
-‹head>
-<title>フォローボタン</title＞
+　<!DOCYPE html> 
+<html> 
+<head> 
+　<title>フォローボタン</title>
 </head>
-‹body>
-<buton omclick="followUser（）”>10503020をフォロー＜/button＞
-‹script>
-function followUser) {
-const targetUrI = "https://google.com
-window.open(targetUrl, '_blank');
-</script>
-</body> </html>
+ <body>
+　 <buton omclick="followUser()">10503020をフォロー</button>
+
+ <script> 
+　function followUser() { 
+　　const targetUrl = "https://google.com 
+
+　　window.open(targetUrl, '_blank');
+　 }
+　</script> 
+</body> 
+</html>
