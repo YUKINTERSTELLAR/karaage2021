@@ -1,1 +1,8 @@
-
+services:
+  - type: web
+    name: google-kanemitu-no-youtoube
+    env: python
+    region: Oregon
+    plan: free
+    buildCommand:
+    startCommand:
